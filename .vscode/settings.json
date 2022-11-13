@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "task.quickOpen.detail": false
+}
